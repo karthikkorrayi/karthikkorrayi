@@ -21,6 +21,8 @@
 
   
 
+  
+
 <br/>  
 
 
@@ -77,6 +79,31 @@
 
 
 ## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkorrayi&hide_border=true&layout=compact" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthikkorrayi&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sc0fol9k2xryblp6xxz5plprk&cover_image=true&theme=compact)  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karthikkorrayi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
