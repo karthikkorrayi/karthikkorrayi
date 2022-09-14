@@ -83,14 +83,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=sc0fol9k2xryblp6xxz5plprk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sc0fol9k2xryblp6xxz5plprk&cover_image=true&theme=default&bar_color=000000" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=karthikkorrayi&&style=flat-square" align="center" />
