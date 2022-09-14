@@ -88,10 +88,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
+## Recent Blog Posts  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sc0fol9k2xryblp6xxz5plprk&cover_image=true&theme=compact)  
 
