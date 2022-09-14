@@ -25,6 +25,8 @@
 
   
 
+  
+
 <br/>  
 
 
@@ -83,18 +85,15 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkorrayi&hide_border=true&layout=compact" align="left" />  
 
+<br/>  
+
+
+## Recent Blog Posts  
 <img src="https://github-readme-stats.vercel.app/api?username=karthikkorrayi&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
-
-
   
-
-<br/>  
-## Recent Blog Posts  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sc0fol9k2xryblp6xxz5plprk&cover_image=true&theme=compact)  
 
 <br/>  
 
