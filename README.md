@@ -7,7 +7,7 @@
 👨‍💻 Graduating Batch of 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Portfolio](https://github.com/karthikkorrayi/portfolio)  
+- 🔭 I’m currently working on the Repository, The [Chess Game](https://github.com/karthikkorrayi/ChessGame)  
   
 
 - 🌱 I’m currently learning Front-End, Back-End and Bot Automation  
