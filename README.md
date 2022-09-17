@@ -81,11 +81,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkorrayi&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
+<br> 
 
 
 ## Recent Blog Posts  
