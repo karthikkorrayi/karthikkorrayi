@@ -73,12 +73,12 @@
 <br/>  
 
 
-<br> 
+<br/> 
 
 ## Recent Blog Posts  
 <img src="https://github-readme-stats.vercel.app/api?username=karthikkorrayi&show_icons=true&count_private=true&hide_border=true" align="left" />  
  
-<br>
+<br/>
 
 
 ## Connect with me  
